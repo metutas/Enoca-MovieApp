@@ -30,6 +30,13 @@ Android Studio'da projeyi açıp Gradle senkronizasyonunun tamamlanmasını bekl
 
 Cihazınızda (veya emülatörde) Run butonuna basın.
 
+## 📱 Uygulamayı Deneyin
+
+Projenin çalışan son versiyonunu (APK) Android cihazınıza indirip kurmak için aşağıdaki bağlantıyı kullanabilirsiniz:
+
+👉 **[Enoca Movie App - APK İndir](https://github.com/metutas/Enoca-MovieApp/releases)**
+
+
 <img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/a52089cd-6fd5-44a4-a955-6f3376bcc3bb" />🎬 Enoca Movie App
 
 
