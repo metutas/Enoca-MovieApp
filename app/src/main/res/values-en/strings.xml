@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enoca Movie App</string>
+    <string name="search_hint">Search Movies...</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="release_date">Release Date:</string>
+    <string name="rating">Rating:</string>
+</resources>

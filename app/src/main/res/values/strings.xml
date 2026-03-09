@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Enoca Movie App</string>
+    <string name="search_hint">Film Ara...</string>
+    <string name="now_playing">Vizyondakiler</string>
+    <string name="popular">Popüler</string>
+    <string name="top_rated">En Çok Oy Alanlar</string>
+    <string name="upcoming">Yakında</string>
+    <string name="movie_detail">Film Detayı</string>
+    <string name="release_date">Yayın Tarihi:</string>
+    <string name="rating">Puan:</string>
+</resources>
