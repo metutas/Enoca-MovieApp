@@ -1,4 +1,4 @@
-<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/a52089cd-6fd5-44a4-a955-6f3376bcc3bb" />🎬 Enoca Movie App
+🎬 Enoca Movie App
 Bu uygulama, Enoca Android Developer staj süreci kapsamında geliştirilmiştir. Temel odak noktam; modern Android kütüphanelerini kullanarak, sürdürülebilir ve temiz bir kod mimarisi (Clean Architecture prensipleri) sergilemektir.
 
 🛠️ Neler Kullandım? (Tech Stack)
@@ -30,7 +30,7 @@ Android Studio'da projeyi açıp Gradle senkronizasyonunun tamamlanmasını bekl
 
 Cihazınızda (veya emülatörde) Run butonuna basın.
 
-
+<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/a52089cd-6fd5-44a4-a955-6f3376bcc3bb" />🎬 Enoca Movie App
 
 
 ![WhatsApp Image 2026-03-09 at 05 01 12 (1)](https://github.com/user-attachments/assets/e2bc6bab-15e7-4baf-8744-6e1f4906c64f)
