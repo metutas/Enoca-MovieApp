@@ -22,7 +22,7 @@ Clean Code: Değişken isimlendirmelerinden klasör yapısına kadar her noktada
 Dinamik UI: API'den gelen veriye göre şekillenen, kullanıcıyı yormayan modern bir tasarım.
 
 🚀 Çalıştırma Talimatları
-Projeyi klonlayın: git clone https://github.com/metutas/EnocaMovieApp.git
+Projeyi klonlayın: git clone https://github.com/metutas/Enoca-MovieApp.git
 
 Android Studio'da projeyi açıp Gradle senkronizasyonunun tamamlanmasını bekleyin.
 
