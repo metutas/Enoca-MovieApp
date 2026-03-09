@@ -1,4 +1,4 @@
-🎬 Enoca Movie App
+<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/a52089cd-6fd5-44a4-a955-6f3376bcc3bb" />🎬 Enoca Movie App
 Bu uygulama, Enoca Android Developer staj süreci kapsamında geliştirilmiştir. Temel odak noktam; modern Android kütüphanelerini kullanarak, sürdürülebilir ve temiz bir kod mimarisi (Clean Architecture prensipleri) sergilemektir.
 
 🛠️ Neler Kullandım? (Tech Stack)
@@ -29,3 +29,18 @@ Android Studio'da projeyi açıp Gradle senkronizasyonunun tamamlanmasını bekl
 Önemli: Uygulamanın çalışması için geçerli bir TMDB API Key'e sahip olmanız gerekmektedir.
 
 Cihazınızda (veya emülatörde) Run butonuna basın.
+
+
+
+
+![WhatsApp Image 2026-03-09 at 05 01 12 (1)](https://github.com/user-attachments/assets/e2bc6bab-15e7-4baf-8744-6e1f4906c64f)
+
+
+
+![WhatsApp Image 2026-03-09 at 05 01 12 (2)](https://github.com/user-attachments/assets/ad9a5151-ea79-4c5b-992e-1509545ab76b)
+
+![WhatsApp Image 2026-03-09 at 05 04 28](https://github.com/user-attachments/assets/79dedb87-4502-4b65-88aa-8e79823193ba)
+
+
+![WhatsApp Image 2026-03-09 at 05 01 13 (1)](https://github.com/user-attachments/assets/6cd530e1-aa64-40e4-8de7-58a555381146)
+
